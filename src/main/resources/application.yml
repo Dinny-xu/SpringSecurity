@@ -2,3 +2,9 @@ server:
   port: 8088
   servlet:
     context-path: /
+# 通过yml 添加用户名和密码
+#spring:
+#  security:
+#    user:
+#      name: root
+#      password: root
